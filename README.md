@@ -3,7 +3,7 @@ Instagram is a mobile application that enables users to capture, edit, and share
 features like Stories, IGTV, and Reels, fostering social interaction and creative expression. The platform has become a significant part of digital culture,
 influencing trends, connecting people, and serving as a versatile tool for personal and professional communication.
 
-# About our project
+# About the project
 We started the instgram project report with a simple introduction and a background of meta company and a definition of some of the problems
 that the application solves and how it solves them.then we wrote a work plan using the incremental model and agile methodology,
 and functional requirements and non-functional requirements in two ways (user and system).
